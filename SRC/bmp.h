@@ -22,7 +22,7 @@ typedef struct {
    unsigned short int bits;
    unsigned int compression;
    unsigned int imagesize;
-   int xresolution,yresolution;
+   int xresolution,yresolution; 
    unsigned int ncolours;
    unsigned int importantcolours;
 } Info;
